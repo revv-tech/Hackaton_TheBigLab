@@ -2,6 +2,9 @@
   <p align="center">
   https://hackhpc.github.io/BigDataHack-2022/
   </p>
+   <p align="center">
+  https://kabre.cenat.ac.cr/bigdata2022/
+   </p>
   <p align="center">
   <a href="http://www.red-ricap.org/" target="blank"><img align="center" src="https://kabre.cenat.ac.cr/wp-content/uploads/2019/10/redconare-1.png" height="200" width="200" /></a>
   </p>
