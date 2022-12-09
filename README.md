@@ -2,7 +2,7 @@
 # Team Members:
 
  <p align="center">
-Betsy Loaiza
+# Betsy Loaiza
 
    </p>
   <p align="center">
