@@ -1,5 +1,7 @@
 # Machine Learning Simulation Task for the Hackaton of Big Data School 2022
-🏆Team Members🏆:
+ <p align="center">
+Team Members
+ </p>
  <p align="center">
 Betsy Loaiza
  </p>
