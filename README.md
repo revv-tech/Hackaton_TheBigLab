@@ -1,6 +1,5 @@
-# TheBigLab
+# 🏆Machine Learning Simulation Task for the Hackaton of Big Data School @RedConare 2022🏆
   <p align="center">
-🏆Machine Learning Simulation Task for the Hackaton of Big Data School @RedConare 2022🏆
   https://hackhpc.github.io/BigDataHack-2022/
   </p>
   <p align="center">
