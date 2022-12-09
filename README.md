@@ -1,17 +1,15 @@
-# 🏆Machine Learning Simulation Task for the Hackaton of Big Data School @RedConare 2022🏆
-# Team Members:
-
+# Machine Learning Simulation Task for the Hackaton of Big Data School 2022
+🏆Team Members🏆:
  <p align="center">
-# Betsy Loaiza
-
-   </p>
-  <p align="center">
+Betsy Loaiza
+ </p>
+<p align="center">
 Jorge Andrés Blanco
 </p>
 <p align="center">
 Jean Paul Mena
-  </p>
-  <p align="center">
+</p>
+<p align="center">
 Marco Revéiz
 </p>
 
