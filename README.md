@@ -2,5 +2,6 @@
 <p align="center">
 🏆Machine Learning Simulation Task for the Hackaton of Big Data School @RedConare 2022🏆
 </p>
-<a href="https://hackhpc.github.io/BigDataHack-2022/" target="blank"><img align="center" src="https://kabre.cenat.ac.cr/wp-content/uploads/2019/10/redconare-1.png" height="100" width="100" /></a>
-
+<a href="http://www.red-ricap.org/" target="blank"><img align="center" src="https://kabre.cenat.ac.cr/wp-content/uploads/2019/10/redconare-1.png" height="100" width="100" /></a>
+<a href="https://kabre.cenat.ac.cr/" target="blank"><img align="center" src="https://kabre.cenat.ac.cr/wp-content/uploads/2019/10/gradiente-cenat-4-300x217.png" height="100" width="100" /></a>
+<a href="https://www.tacc.utexas.edu/" target="blank"><img align="center" src="https://kabre.cenat.ac.cr/wp-content/uploads/2019/10/taccLogo-300x115.png" height="100" width="100" /></a>
