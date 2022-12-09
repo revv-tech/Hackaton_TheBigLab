@@ -1,11 +1,20 @@
 # 🏆Machine Learning Simulation Task for the Hackaton of Big Data School @RedConare 2022🏆
-# Team Membes:
-<p align="center">
+# Team Members:
+
+ <p align="center">
 Betsy Loaiza
+
+   </p>
+  <p align="center">
 Jorge Andrés Blanco
+</p>
+<p align="center">
 Jean Paul Mena
+  </p>
+  <p align="center">
 Marco Revéiz
 </p>
+
   <p align="center">
   https://hackhpc.github.io/BigDataHack-2022/
   </p>
